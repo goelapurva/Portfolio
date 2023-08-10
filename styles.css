@@ -306,6 +306,7 @@
     font-size: 2rem;
     padding: 2rem 0.5rem;
     color:rgb(225, 226, 231);
+    font-weight:600;
   }
   
   .btn {
@@ -367,7 +368,6 @@
     justify-content: center;
     width: 100%;
     max-width: 980px;
-    margin-top: 4rem;
     flex-wrap: wrap;
   }
   
@@ -443,4 +443,6 @@
 .flex-child:first-child {
   margin-right: 150px;
 
-}
+} 
+  
+  
