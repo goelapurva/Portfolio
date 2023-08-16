@@ -81,16 +81,26 @@
   h2 {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
-    text-align: center;
-   
+    text-align: start;
   }
-  
+
+  .nameWrap{
+    color:#334155;
+    font-size: 4rem;
+  }
+
   h1 {
     font-size: 5rem;
     color: white;
   
   }
-  
+  .webPageWrapper{
+    font-size: 4.2rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    text-align: center;
+  }
+ 
   h2 {
     font-size: 4.2rem;
   }
@@ -112,6 +122,7 @@
     max-width:100%;
     font-size:17px;
     text-align: justify;
+    padding-top: 30px;
   }
   #cardWrap{
     padding-top:5px;
