@@ -418,7 +418,11 @@
     }
   }
 
-  #skill-id {box-sizing: border-box}
+  #skill-id {
+      box-sizing: border-box;
+       color:#334155;
+    font-size: 4rem;
+            }
 
 .container {
   width: 100%;
