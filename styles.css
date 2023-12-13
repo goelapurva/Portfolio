@@ -438,11 +438,11 @@
 
 .html {width: 90%; background-color: #00b256;}
 .css {width: 80%; background-color: #dc6803;}
-.js {width: 65%; background-color: #fef367;}
-.react {width: 70%; background-color: #f43f5e;}
+.js {width: 85%; background-color: #fef367;}
+.react {width: 75%; background-color: #f43f5e;}
 .redux {width: 70%; background-color: #00afcd;}
 .JSON {width: 70%; background-color: #ffe4e6;}
-.git {width: 75%; background-color: #93c5fd;}
+.git {width: 80%; background-color: #93c5fd;}
 
 .flex-container {
   display: flex;
